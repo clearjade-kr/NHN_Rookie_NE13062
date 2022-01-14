@@ -11,3 +11,9 @@ Thymeleaf Page : layout template 을 활용해서 처리
 
 --> Repository 계층 - GuestbookRepository : Spring Data JPA를 통해 구현, 
 		GuestbookServiceImpl 클래스에 주입하여 사용
+
+
+
+
+
+Testing Fork
